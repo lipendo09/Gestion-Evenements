@@ -13,20 +13,18 @@
 
 
             <div class="le-display">
-                <div class="card ml-3 mt-5" style="width: 24%;">
+                <div class="card ml-3 mt-5" style="width: 24%; height: 19rem;">
                 
-                    <div class="card bg-light mb-3" style="max-width: 19rem;">
-                        <div class="card-header bg-light text-center font-weight-bolder">ORGANISATEUR</div>
+                    <div class="card mb-3" style="max-width: 19rem; height: 45%;">
+                        <div class="card-header bg-light text-center card-title font-weight-bolder">ORGANISATEUR</div>
                         <div class="card-body">
-                            <h5 class="card-title">Light card title</h5>
-                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            <p class="card-text"> </p>
                         </div>
                     </div>
-                    <div class="card bg-light mb-3" style="max-width: 19rem;">
-                        <div class="card-header bg-light text-center font-weight-bolder">CONTACT(S)</div>
+                    <div class="card marge-t" style="max-width: 19rem; height: 45%;">
+                        <div class="card-header bg-light text-center card-title font-weight-bolder">CONTACT(S)</div>
                         <div class="card-body">
-                            <h5 class="card-title">Light card title</h5>
-                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                            <p class="card-text"> </p>
                         </div>
                     </div>
                 </div>

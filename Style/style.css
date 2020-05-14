@@ -5,7 +5,6 @@
     margin-bottom: -20px;
     margin-right: -20px;
     margin-top: 20px;
-
 }
 
 .bordure-cadre
@@ -38,4 +37,9 @@
 {
     display: flex;
     justify-content: flex-end;
+}
+
+.marge-t
+{
+    margin-top: 5%;
 }
