@@ -1,0 +1,45 @@
+.position
+{
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: -20px;
+    margin-right: -20px;
+    margin-top: 20px;
+}
+
+.bordure-cadre
+{
+    
+    text-align: center;
+    border: 1.5px solid black;
+}
+
+.le-display
+{
+    display: flex;
+}
+
+.cadre-secondaire
+{
+    border: 1.5px solid black;
+}
+
+.position-retour
+{
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 1.25%;
+    margin-right: 2%;
+    margin-top: 5%;
+}
+
+.position-connexion
+{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.marge-t
+{
+    margin-top: 5%;
+}
